@@ -1,69 +1,161 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# 👋 Olá, eu sou Tuanno!
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+### Desenvolvedor PHP/Laravel | Automação e Controle | Sistemas Web | SAGE | Setor Elétrico
 
-## About Laravel
+Sou **Técnico em Informática para Internet** e atualmente curso **Tecnologia em Sistemas para Internet**.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+Atuo profissionalmente como **Analista de Campo I na área de Automação e Controle**, trabalhando com soluções voltadas ao setor elétrico e sistemas de supervisão de subestações de energia.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Minha trajetória combina **desenvolvimento de software, automação e tecnologia aplicada ao setor elétrico**.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
+---
 
-## Learning Laravel
+## 🚀 Sobre mim
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
+💻 Desenvolvimento de aplicações web
+⚙️ Automação e Controle
+⚡ Sistemas voltados para subestações de energia
+🖥️ Experiência com sistema supervisório **SAGE**
+🐘 Desenvolvimento com **PHP e Laravel**
+🗄️ Banco de dados e **MySQL**
+⚛️ Desenvolvimento com **React**
+🐳 Ambientes com **Docker**
+🔧 Git e GitHub
+🐧 Windows e Linux
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+Busco constantemente aprimorar meus conhecimentos em desenvolvimento de software, arquitetura de sistemas, automação e integração entre diferentes tecnologias.
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell):
+## 🛠️ Tecnologias
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
+### 💻 Desenvolvimento
 
-## Contributing
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### 🗄️ Banco de dados
 
-## Security Vulnerabilities
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### ⚙️ Ferramentas
 
-## License
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+---
+
+## ⚡ Automação e Controle
+
+Além do desenvolvimento de software, possuo experiência profissional com tecnologias e sistemas utilizados no setor elétrico.
+
+Minha experiência inclui:
+
+* Sistema supervisório **SAGE**
+* Automação e Controle
+* Supervisão de subestações de energia
+* Desenvolvimento e configuração de sistemas de supervisão
+* Sistemas de controle
+* Análise e monitoramento de sistemas de automação
+* Configuração de redes e equipamentos
+* Aplicação de programação em soluções de automação
+
+> **Software + Automação + Setor Elétrico**
+
+Essa combinação permite desenvolver soluções de software considerando também as necessidades de ambientes industriais e sistemas de supervisão e controle.
+
+---
+
+## ⭐ Projeto em destaque
+
+### 📚 CONECTAEBD
+
+Sistema web desenvolvido para gerenciamento de uma **Escola Bíblica Dominical**, criado como projeto prático para aplicação de conhecimentos em desenvolvimento web.
+
+### Funcionalidades
+
+* 🔐 Autenticação e controle de usuários
+* 👥 Gerenciamento de alunos
+* 👨‍🏫 Gerenciamento de professores
+* 🏫 Gerenciamento de turmas
+* 📋 Controle de frequência
+* 📊 Relatórios
+* 📚 Histórico escolar
+* 📅 Gerenciamento de caderneta
+* 🗄️ Banco de dados
+* 🐳 Ambiente Docker
+
+### Tecnologias
+
+`PHP` `Laravel` `React` `MySQL` `Docker` `Git`
+
+🔗 **[Acessar o projeto](https://github.com/Tuanno/CONECTAEBD)**
+
+---
+
+## 📌 Outros projetos
+
+Estou utilizando meus projetos pessoais como laboratório para desenvolver e aprimorar conhecimentos em:
+
+* Desenvolvimento Backend
+* Desenvolvimento Frontend
+* APIs REST
+* Banco de dados
+* Autenticação e autorização
+* Docker
+* Arquitetura de sistemas
+* Integração entre sistemas
+* Automação de processos
+* Sistemas voltados ao setor elétrico
+
+Confira meus repositórios para acompanhar minha evolução e meus projetos.
+
+---
+
+## 📚 Atualmente estudando
+
+🎓 Tecnologia em Sistemas para Internet
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+* PHP
+* Laravel
+* React
+* JavaScript
+* TypeScript
+* MySQL
+* APIs REST
+* Docker
+* Git/GitHub
+* Arquitetura de Software
+* Desenvolvimento de sistemas web
+* Integração entre software e automação
+
+---
+
+## 🎯 Objetivos profissionais
+
+Tenho interesse em oportunidades relacionadas a:
+
+**Desenvolvimento de Software**
+**PHP / Laravel**
+**Backend**
+**Desenvolvimento Web**
+**Sistemas Web**
+**Automação e Controle**
+**Sistemas Supervisórios**
+**Tecnologia aplicada ao setor elétrico**
+
+Busco oportunidades que me permitam continuar evoluindo tecnicamente e contribuir com projetos que utilizem tecnologia para solucionar problemas reais.
+
+
+### 💡 "Transformando conhecimento em tecnologia e soluções."
+
+⭐ Se algum projeto for útil para você, considere deixar uma estrela no repositório!
